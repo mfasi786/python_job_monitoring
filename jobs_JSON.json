@@ -1,0 +1,34 @@
+{
+   "mminds_jobs" : [
+        {
+            "job_name": "CE_BATCH",
+            "directory": "/testCEDirectory/",
+            "start_time": "13.00",
+            "days_of_week": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+            "holidays": ["2022-01-01", "2022-01-16", "2022-02-20", "2022-05-29", "2022-06-19", "2022-07-04", "2022-09-04", "2022-10-09", "2022-11-23", "2022-12-25"]
+        },
+        {
+            "job_name": "CE_RECON_BATCH",
+            "directory": "/testCEReconDirectory/",
+            "start_time": "02.30",
+            "days_of_week": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+            "holidays": ["2022-01-01", "2022-01-16", "2022-02-20", "2022-05-29", "2022-06-19", "2022-07-04", "2022-09-04", "2022-10-09", "2022-11-23", "2022-12-25"]
+        },
+        {
+            "job_name": "CE_MTRS_FL",
+            "directory": "/testCEMTRSDirectory/",
+            "start_time": "18.00",
+            "days_of_week": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+            "holidays": ["2022-01-01", "2022-01-16", "2022-02-20", "2022-05-29", "2022-06-19", "2022-07-04", "2022-09-04", "2022-10-09", "2022-11-23", "2022-12-25"]
+        },
+        {
+            "job_name": "CE_MTRS_RCRP",
+            "directory": "/testCEMTRSDirectory/",
+            "start_time": "18.00",
+            "days_of_week": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+            "holidays": ["2022-01-01", "2022-01-16", "2022-02-20", "2022-05-29", "2022-06-19", "2022-07-04", "2022-09-04", "2022-10-09", "2022-11-23", "2022-12-25"]
+        }
+
+]
+
+}
